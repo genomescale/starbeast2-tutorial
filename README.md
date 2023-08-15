@@ -1,9 +1,9 @@
 ---
 author: Huw A. Ogilvie
 level: Intermediate
-title: StarBEAST2 v14 tutorial
+title: StarBEAST2 v1.0.0 tutorial
 subtitle: Estimating species trees using StarBEAST2
-beastversion: 2.5.0
+beastversion: 2.7.x
 ---
 
 
@@ -21,3 +21,5 @@ a strict nuclear clock rate.  The second is a relaxed clock analysis where a sep
 molecular clock rate is estimated for each species branch. The third is a
 _total evidence_ analysis where the times and rates and jointly estimated by integrating
 fossil data into the model.
+
+This tutorial is identical to the tutorial hosted [here](https://github.com/genomescale/starbeast2/releases/tag/v1.0.0).
